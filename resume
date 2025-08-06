@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <center>
+        <img src="./C:\Users\bugge\OneDrive\Desktop\resume.html\WhatsApp Image 2025-03-19 at 23.40.06_08353d54.jpg" alt="Narendra profile" width="250">
+        <h2>Bugge Narendra</h2>
+        <b>Email:</b><a href="mailto:buggenarendra@gmail.com">buggenarendra@gmail.com</a> |
+        <b><u>Phone No:</u></b>8247304483
+    </center>
+    <hr>
+    <b>Objective</b>
+    <p>To Obtain a postion web developer where i can utilze my HTML,CSS.Java Script Skills to create interactive and user frinedly websires
+    </p>
+    <hr>
+    <b>Eduaction</b>
+    <table width="600" border="1" cellspacing="0" cellpadding=10 ">
+        <tr align center>
+        <th>Degree</th>
+        <th> Institution</th>
+        <th>Year</th>
+        <th>precentage</th>
+        </tr>
+        <tr align center>
+            <td>B.Tech</td>
+             <td> PARUL UNIVERSITY</td>
+             <td>2025</td>
+             <td>6.84%
+        </tr>
+        <tr align center>
+            <td>Intermediate</td>
+            <td>Aditya Junior College</td>
+            <td>2021</td>
+            <td>62.5%</td>
+        </tr>
+     </table>
+     <hr>
+     <b>Technical Skills</b>
+     <ul>
+        <li>Html</li>
+        <li>CSS</li>
+        <li>javaScript
+        </li>
+        <li>Git &Gihub</li>
+     </ul>
+     <hr>
+     <b>project</b>
+    <ul>
+        <li><b><u>Facerecognition using python:</u></b> which focuses on identifying facial recognision through image processing techniques.Using Machine Learning with Python</li>
+    <br>
+    
+    </ul>
+    <hr>
+    <h3>Personal Information</h3>
+        <br>
+    <b>Date of Birth</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         20-07-2002
+    <br>
+    <b>Languages</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Telugu&English       
+    <br>
+    <b>Address</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Andra Pradesh,west godavari,palakol
+    <hr>
+    <b>Declaration</b>
+    I hereby declare that the information providedd above is true to the best of my knowledge.
+    <hr>
+   <pre>                                                                                                                                                                       <b>Signature:</b>bugge narendra
+ 
+  
+</body>
+</html>
